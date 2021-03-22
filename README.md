@@ -2,7 +2,6 @@
 
 
 ## I'm a University Student interested in CS, UX, Machine Learning and Artifical Intelligence!!
-<hr />
 
 - 🔭 I am currently working on side projects
 - 🌱 I’m currently learning everything 🤣 
