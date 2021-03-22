@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on side projects
 - 🌱 I’m currently learning everything 🤣 
-- 👯 I’m am collaborating on a Game Dev Project with the PHI Society. 
+- 👯 I’m collaborating on [a Game Dev Project](https://github.com/PHI-WLU/PHI-Game) for the [PHI Society](https://github.com/PHI-WLU)
 - 🥅 2021 Goals: Work on a Project related to AI
 - ⚡ Fun fact: Car Enthusiast
 
